@@ -1,0 +1,14 @@
+/cmake-build-debug
+cmake-build-debug
+cmake-build-debug/
+
+
+# CLion/CMake
+cmake-build-*/
+
+# CLion
+.idea/
+
+# Debian
+.directory
+
