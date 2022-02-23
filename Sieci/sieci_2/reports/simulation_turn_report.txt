@@ -1,0 +1,60 @@
+=== [ Turn: 1 ] ===
+
+== WORKERS ==
+
+WORKER #2
+  PBuffer: (empty)
+  Queue: (empty)
+  SBuffer: (empty)
+
+WORKER #1
+  PBuffer: #1 (pt = 1)
+  Queue: #2
+  SBuffer: (empty)
+
+
+== STOREHOUSES ==
+
+STOREHOUSE #1
+  Stock: (empty)
+
+=== [ Turn: 3 ] ===
+
+== WORKERS ==
+
+WORKER #2
+  PBuffer: (empty)
+  Queue: (empty)
+  SBuffer: #3
+
+WORKER #1
+  PBuffer: #2 (pt = 1)
+  Queue: #1
+  SBuffer: (empty)
+
+
+== STOREHOUSES ==
+
+STOREHOUSE #1
+  Stock: (empty)
+
+=== [ Turn: 5 ] ===
+
+== WORKERS ==
+
+WORKER #2
+  PBuffer: (empty)
+  Queue: (empty)
+  SBuffer: (empty)
+
+WORKER #1
+  PBuffer: #1 (pt = 1)
+  Queue: #4, #5, #2, 
+  SBuffer: (empty)
+
+
+== STOREHOUSES ==
+
+STOREHOUSE #1
+  Stock: #3
+
